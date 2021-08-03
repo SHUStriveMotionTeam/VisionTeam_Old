@@ -1,0 +1,3 @@
+int lemon_h_max_t = 129 ,lemon_h_min_t = 73 ,lemon_s_max_t = 145 ,lemon_s_min_t = 19 ,lemon_v_max_t = 163 ,lemon_v_min_t = 79;
+int gray_h_max_t = 94 ,gray_h_min_t = 57 ,gray_s_max_t = 177 ,gray_s_min_t = 16 ,gray_v_max_t = 255 ,gray_v_min_t = 38;
+int blue_h_max_t = 123 ,blue_h_min_t = 96 ,blue_s_max_t = 245 ,blue_s_min_t = 193 ,blue_v_max_t = 132 ,blue_v_min_t = 20;

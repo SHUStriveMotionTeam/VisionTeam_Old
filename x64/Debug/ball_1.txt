@@ -1,0 +1,4 @@
+int red1_h_max_t = 10 ,red1_h_min_t = 0 ,red1_s_max_t = 255 ,red1_s_min_t = 43 ,red1_v_max_t = 255 ,red1_v_min_t = 46;
+int red2_h_max_t = 180 ,red2_h_min_t = 156 ,red2_s_max_t = 255 ,red2_s_min_t = 43 ,red2_v_max_t = 255 ,red2_v_min_t = 46;
+int white_h_max_t = 106 ,white_h_min_t = 0 ,white_s_max_t = 73 ,white_s_min_t = 0 ,white_v_max_t = 255 ,white_v_min_t = 175;
+int blue_h_max_t = 116 ,blue_h_min_t = 16 ,blue_s_max_t = 255 ,blue_s_min_t = 112 ,blue_v_max_t = 255 ,blue_v_min_t = 20;

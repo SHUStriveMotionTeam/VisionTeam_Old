@@ -1,0 +1,1 @@
+int rect_h_max_t = 255 ,rect_h_min_t = 0 ,rect_s_max_t = 240 ,rect_s_min_t = 0 ,rect_v_max_t = 129 ,rect_v_min_t = 122;

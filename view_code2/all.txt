@@ -1,0 +1,11 @@
+int red1_h_max_t = 10 ,red1_h_min_t = 0 ,red1_s_max_t = 255 ,red1_s_min_t = 43 ,red1_v_max_t = 255 ,red1_v_min_t = 46;
+int red2_h_max_t = 180 ,red2_h_min_t = 156 ,red2_s_max_t = 255 ,red2_s_min_t = 43 ,red2_v_max_t = 255 ,red2_v_min_t = 46;
+int white_h_max_t = 197 ,white_h_min_t = 34 ,white_s_max_t = 157 ,white_s_min_t = 0 ,white_v_max_t = 198 ,white_v_min_t = 89;
+int blue_h_max_t = 116 ,blue_h_min_t = 16 ,blue_s_max_t = 255 ,blue_s_min_t = 112 ,blue_v_max_t = 255 ,blue_v_min_t = 20;
+int yellow_h_max_t = 71 ,yellow_h_min_t = 20 ,yellow_s_max_t = 255 ,yellow_s_min_t = 82 ,yellow_v_max_t = 255 ,yellow_v_min_t = 104;
+int blove_h_max_t = 122 ,blove_h_min_t = 30 ,blove_s_max_t = 166 ,blove_s_min_t = 10 ,blove_v_max_t = 114 ,blove_v_min_t = 19;
+int lemon_h_max_t = 129 ,lemon_h_min_t = 73 ,lemon_s_max_t = 145 ,lemon_s_min_t = 19 ,lemon_v_max_t = 163 ,lemon_v_min_t = 79;
+int gray_h_max_t = 69 ,gray_h_min_t = 46 ,gray_s_max_t = 132 ,gray_s_min_t = 32 ,gray_v_max_t = 129 ,gray_v_min_t = 7;
+int orange_h_max_t = 19 ,orange_h_min_t = 5 ,orange_s_max_t = 255 ,orange_s_min_t = 128 ,orange_v_max_t = 255 ,orange_v_min_t = 16;
+int rect_h_max_t = 255 ,rect_h_min_t = 0 ,rect_s_max_t = 240 ,rect_s_min_t = 0 ,rect_v_max_t = 129 ,rect_v_min_t = 122;
+int whrect_h_max_t = 255 ,whrect_h_min_t = 0 ,whrect_s_max_t = 154 ,whrect_s_min_t = 0 ,whrect_v_max_t = 255 ,whrect_v_min_t = 76;

@@ -1,0 +1,7 @@
+﻿  mythread.cpp
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(120): error C2065: “gray_rate_t”: 未声明的标识符
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(120): error C2065: “exposure_t”: 未声明的标识符
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(120): error C2065: “sign_S_t”: 未声明的标识符
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(1958): error C2065: “gray_rate_t”: 未声明的标识符
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(1958): error C2065: “exposure_t”: 未声明的标识符
+c:\users\basketball\desktop\view_basket\view_code2\mythread.cpp(1958): error C2065: “sign_S_t”: 未声明的标识符
