@@ -1,11 +1,7 @@
-﻿  Uic'ing view_code2.ui...
-  Rcc'ing view_code2.qrc...
-  Moc'ing view_code2.h...
-  Moc'ing mythread.h...
-   RCC: Warning: No resources in 'C:\Users\nuc\Desktop\view_basket\view_code2\view_code2.qrc'.
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
   main.cpp
   mythread.cpp
   view_code2.cpp
-C:\Users\nuc\Desktop\view_basket\view_code2\mythread.h(3,10): fatal error C1083: 无法打开包括文件: “QObject”: No such file or directory (编译源文件 mythread.cpp)
-C:\Users\nuc\Desktop\view_basket\view_code2\main.cpp(9,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
-C:\Users\nuc\Desktop\view_basket\view_code2\mythread.h(3,10): fatal error C1083: 无法打开包括文件: “QObject”: No such file or directory (编译源文件 view_code2.cpp)
+D:\user\py\StiveTeam\VisionTeam_Old\view_code2\view_code2.h(3,10): fatal error C1083: 无法打开包括文件: “QtWidgets/QWidget”: No such file or directory (编译源文件 view_code2.cpp)
+D:\user\py\StiveTeam\VisionTeam_Old\view_code2\mythread.h(3,10): fatal error C1083: 无法打开包括文件: “QObject”: No such file or directory (编译源文件 mythread.cpp)
+D:\user\py\StiveTeam\VisionTeam_Old\view_code2\main.cpp(6,10): fatal error C1083: 无法打开包括文件: “opencv2/core.hpp”: No such file or directory
